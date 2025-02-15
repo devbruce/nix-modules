@@ -11,4 +11,5 @@
 
 ## 📦 Contents
 
-- 📁 [`./nix-darwin`](./nix-darwin) modules for macOS
+- 📁 [`./home`](./home): Nix modules with [Home Manager](https://github.com/nix-community/home-manager)
+- 📁 [`./nix-darwin`](./nix-darwin): Nix modules for macOS
