@@ -39,6 +39,7 @@
       "warp"
       "raycast"
       "visual-studio-code"
+      "cursor"
       "podman-desktop"
       "postman"
       "drawio"
