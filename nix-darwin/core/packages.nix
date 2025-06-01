@@ -19,7 +19,6 @@
     httpie
     rbenv
     pyenv
-    virtualenv
     pipx
   ];
 }

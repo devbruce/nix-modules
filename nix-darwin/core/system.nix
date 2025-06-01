@@ -1,4 +1,5 @@
 { self, username, ... }: {
+  system.primaryUser = username;
   system.defaults = {
     # dock
     dock.autohide = true;

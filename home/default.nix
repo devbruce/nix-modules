@@ -34,7 +34,7 @@
       oh-my-zsh = {
         enable = true;
       };
-      initExtra = ''
+      initContent = ''
         # zsh-autosuggestions
         source ${pkgs.zsh-autosuggestions}/share/zsh-autosuggestions/zsh-autosuggestions.zsh
         # zsh-history-substring-search

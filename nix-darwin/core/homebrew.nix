@@ -6,7 +6,8 @@
       "mas"
       "tfenv"
       "helm"
-      "podman"
+      "docker"
+      "docker-compose"
       # =======================
       # pyenv dependencies
       # > Ref: https://github.com/pyenv/pyenv/wiki
@@ -39,8 +40,8 @@
       "warp"
       "raycast"
       "visual-studio-code"
+      "rancher"
       "cursor"
-      "podman-desktop"
       "postman"
       "drawio"
       "1password"
