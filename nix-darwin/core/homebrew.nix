@@ -46,6 +46,7 @@
       "drawio"
       "1password"
       "jordanbaird-ice"  # Ref: https://github.com/jordanbaird/Ice
+      "stats"  # Ref: https://github.com/exelban/stats
     ];
     masApps = {
       "Magnet" = 441258766;
